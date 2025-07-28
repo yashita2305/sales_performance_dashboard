@@ -10,7 +10,7 @@ The dashboard is designed to provide **comprehensive insights** into the company
 
 ---
 
-## 🔧 Steps Followed
+## Steps Followed
 
 1. **Data Import**  
    - Multiple tables were imported into Power BI.
